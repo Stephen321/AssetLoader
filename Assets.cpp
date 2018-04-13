@@ -1,5 +1,4 @@
 #include "Assets.h"
-#include "Config.h"
 
 namespace Assets {
 	std::string path = "";
